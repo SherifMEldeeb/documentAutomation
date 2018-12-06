@@ -1,0 +1,6 @@
+C:\Users\htcsh\OneDrive\Documents\SalesReport\SalesReport\obj\Debug\SalesReport.csprojResolveAssemblyReference.cache
+C:\Users\htcsh\OneDrive\Documents\SalesReport\SalesReport\bin\Debug\SalesReport.exe.config
+C:\Users\htcsh\OneDrive\Documents\SalesReport\SalesReport\bin\Debug\SalesReport.exe
+C:\Users\htcsh\OneDrive\Documents\SalesReport\SalesReport\bin\Debug\SalesReport.pdb
+C:\Users\htcsh\OneDrive\Documents\SalesReport\SalesReport\obj\Debug\SalesReport.exe
+C:\Users\htcsh\OneDrive\Documents\SalesReport\SalesReport\obj\Debug\SalesReport.pdb
